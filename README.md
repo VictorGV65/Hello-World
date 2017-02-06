@@ -1,3 +1,4 @@
 # Hello-World
-general Info
+general Information
 What's up? (explanation) 
+MacBook Air
